@@ -1,16 +1,39 @@
-## Hi there 👋
+## Summary of Brad
+Lifelong nerd, finds math fun, Junior Web Dev.
 
-<!--
-**bdoughertys/bdoughertys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on starting my career as a developer after moving to Germany from the USA.
 
-Here are some ideas to get you started:
+* [The Guild](https://github.com/williamgrant04/the-guild) - Multi-game Guild Management App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I know
+<picture>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg width="40">
+</picture>
+<picture>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg width="40">
+</picture>
+<picture>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg width="40">
+</picture>
+<picture>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg width="40">
+</picture>
+<picture>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg width="40">
+</picture>
+<picture>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg width="40">
+</picture>
+
+### Things I'm working on
+<picture>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg width="40">
+</picture>
+<picture>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg width="40">
+</picture>
+
+### Things I like
+Video Games🕹, Puzzles🧩, Board Games🎲, Bouldering🧗‍♂️
+
+### Find me on | [LinkedIn](https://www.linkedin.com/in/brad-doughertys/) |
