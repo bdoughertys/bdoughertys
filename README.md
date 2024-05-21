@@ -3,6 +3,7 @@ Lifelong nerd, finds math fun, Junior Web Dev.
 
 I’m currently working on starting my career as a developer after moving to Germany from the USA.
 
+Finished Project
 * [The Guild](https://github.com/williamgrant04/the-guild) - Multi-game Guild Management App
 
 ### Things I know
