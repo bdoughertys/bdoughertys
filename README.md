@@ -3,8 +3,9 @@ Lifelong nerd, finds math fun, Junior Web Dev.
 
 I’m currently working on starting my career as a developer after moving to Germany from the USA.
 
-Finished Project
+Finished Projects
 * [The Guild](https://github.com/williamgrant04/the-guild) - Multi-game Guild Management App
+* [Score-More](https://github.com/bdoughertys/score-more) - Live group scoreboard app.
 
 ### Things I know
 <picture>
