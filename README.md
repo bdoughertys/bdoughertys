@@ -29,9 +29,6 @@ Finished Projects
 
 ### Things I'm working on
 <picture>
-<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg width="40">
-</picture>
-<picture>
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg width="40">
 </picture>
 
